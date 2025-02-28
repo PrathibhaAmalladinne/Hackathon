@@ -1,0 +1,50 @@
+{
+    "PRE": [
+        {
+            "device": "tpc-g5-32-001",
+            "build": "25.40.08.1",
+            "path": "https://firmware-buildbot.sandvine.com/builds/25.40.08.1/packetlogic2-xeon-plos_64-25.40.08.1.tar.gz.gpg"
+        },
+        {
+            "device": "tpc-g5-32-002",
+            "build": "25.40.08.1",
+            "path": "https://firmware-buildbot.sandvine.com/builds/25.40.08.1/packetlogic2-xeon-plos_64-25.40.08.1.tar.gz.gpg"
+        }
+    ],
+    "PIC": [
+        {
+            "device": "tpc-g5-31-001",
+            "build": "25.40.08.1",
+            "path": "https://firmware-buildbot.sandvine.com/builds/25.40.08.1/packetlogic2-stats_64-25.40.08.1.tar.gz.gpg"
+        },
+        {
+            "device": "tpc-g5-31-002",
+            "build": "25.40.08.1",
+            "path": "https://firmware-buildbot.sandvine.com/builds/25.40.08.1/packetlogic2-stats_64-25.40.08.1.tar.gz.gpg"
+        }
+    ],
+    "MPE": [
+        {
+            "device": "tpc-g5-30-001",
+            "build": "25.40.08.1",
+            "path": "http://fbsd-ftp/images/Linux/PLDist/packetlogic2/maestro/25.40.08.1/25.40/packetlogic2-maestro-25.40.08.1.tar.gz.gpg"
+        },
+        {
+            "device": "tpc-g5-30-002",
+            "build": "25.40.08.1",
+            "path": "http://fbsd-ftp/images/Linux/PLDist/packetlogic2/maestro/25.40.08.1/25.40/packetlogic2-maestro-25.40.08.1.tar.gz.gpg"
+        }
+    ],
+    "EM": [
+        {
+            "device": "tpc-g5-29-001",
+            "build": "26.41.0.9",
+            "path": "http://fbsd-ftp/images/Linux/PLDist/packetlogic2/elements/26.41.0.9/26.41/packetlogic2-elements-26.41.0.9.tar.gz.gpg"
+        },
+        {
+            "device": "tpc-g5-29-002",
+            "build": "26.41.0.9",
+            "path": "http://fbsd-ftp/images/Linux/PLDist/packetlogic2/elements/26.41.0.9/26.41/packetlogic2-elements-26.41.0.9.tar.gz.gpg"
+        }
+    ]
+}
